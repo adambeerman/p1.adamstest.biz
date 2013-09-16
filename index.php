@@ -9,13 +9,13 @@
   <body>
     <title>P1</title>
         <div class = "table">
-            <table width = "600">
+            <table>
                 <tr>
-                    <td width = "300">
+                    <td>
                         <h1>Adam Beerman</h1>
                     </td>
-                    <td width = "300">
-                        <img src ="img/pirate.jpg" width="300">
+                    <td>
+                        <img src ="img/pirate.jpg" alt="Smiley face" width="300">
                     </td>
                 </tr>
                 <tr>
