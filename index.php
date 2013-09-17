@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>P1 - Adam Beerman</title>
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
@@ -14,7 +15,7 @@
                     <h1>Adam Beerman</h1>
                 </td>
                 <td>
-                    <img src ="img/pirate.jpg" alt="Smiley face" width="300">
+                    <img src ="img/profile.jpg" alt="Smiley face" width="300">
                 </td>
             </tr>
             <tr>
