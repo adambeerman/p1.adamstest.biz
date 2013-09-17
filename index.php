@@ -8,8 +8,8 @@
     <link href="css/main.css" rel="stylesheet" media="screen">
   </head>
   <body>
-    <div class = "table">
-        <table width = "400">
+    <div>
+        <table>
             <tr>
                 <td>
                     <h1>Adam Beerman</h1>
