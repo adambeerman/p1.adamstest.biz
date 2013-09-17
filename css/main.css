@@ -1,19 +1,16 @@
 
 
 body {
-  margin: 50px;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 20px;
   color: #333333;
-  background-color: #ffffff;
+  background-color: #F0F0F0;
   text-align: center;
 }
 
 table {
+  float: inherit;
   width: 400px;
-  background-color: #F0F0F0 ;
-  outline-color: black;
-  outline-width: 1px;
-  outline-style: double;
+  background-color: #ffffff ;
 }
